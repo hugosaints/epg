@@ -4,14 +4,49 @@
 <icon src="https://img.nextv.fun/canaladulto.png"/>
 <url>https://nextv.fun</url>
 </channel>
+<!-- Programação para cada dia da semana -->
+<!-- Segunda-feira -->
 <programme start="20230213000000 +0000" stop="20230214000000 +0000" channel="canaladulto.br">
 <title lang="pt">Conteúdo Adulto</title>
 <desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
 <category lang="pt">+18</category>
 </programme>
+<!-- Terça-feira -->
 <programme start="20230214000000 +0000" stop="20230215000000 +0000" channel="canaladulto.br">
 <title lang="pt">Conteúdo Adulto</title>
 <desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
 <category lang="pt">+18</category>
 </programme>
-</tv>
+<!-- Quarta-feira -->
+<programme start="20230215000000 +0000" stop="20230216000000 +0000" channel="canaladulto.br">
+<title lang="pt">Conteúdo Adulto</title>
+<desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
+<category lang="pt">+18</category>
+</programme>
+<!-- Quinta-feira -->
+<programme start="20230216000000 +0000" stop="20230217000000 +0000" channel="canaladulto.br">
+<title lang="pt">Conteúdo Adulto</title>
+<desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
+<category lang="pt">+18</category>
+</programme>
+<!-- Sexta-feira -->
+<programme start="20230217000000 +0000" stop="20230218000000 +0000" channel="canaladulto.br">
+<title lang="pt">Conteúdo Adulto</title>
+<desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
+<category lang="pt">+18</category>
+</programme>
+<!-- Sábado -->
+<programme start="20230218000000 +0000" stop="20230219000000 +0000" channel="canaladulto.br">
+<title lang="pt">Conteúdo Adulto</title>
+<desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
+<category lang="pt">+18</category>
+</programme>
+<!-- Domingo -->
+<programme start="20230219000000 +0000" stop="20230220000000 +0000" channel="canaladulto.br">
+<title lang="pt">Conteúdo Adulto</title>
+<desc lang="pt">A exibição deste conteúdo é de inteira responsabilidade do telespectador!</desc>
+<category lang="pt">+18</category>
+</programme>
+
+<!-- Repetir a mesma programação para todos os dias da semana -->
+<!-- Seg
